@@ -1,0 +1,16 @@
+{
+  "XBTAlert": {
+    "twitter": {
+      "owner":"",
+      "owner_id":"",
+      "consumer_token": {
+        "key":"",
+        "secret":""
+      },
+      "access_token": {
+        "key":"",
+        "secret":""
+      }
+    }
+  }
+}
